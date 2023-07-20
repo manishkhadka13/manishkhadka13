@@ -2,7 +2,7 @@
 <h3 align="center">A Computer Engineer currently exploring the vast array of data engineering and analytics</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 👨‍💻 All of my projects are available at [manishkhadka13.com.np](manishkhadka13.com.np)
+- 👨‍💻 All of my projects are available at https://github.com/manishkhadka13?tab=repositories
 
 - 💬 Ask me about **Python,SQL,Tableau,PowerBI,Pentaho,Snowflake,Kafka,GIT,Pyspark**
 
