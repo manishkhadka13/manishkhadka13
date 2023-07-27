@@ -5,8 +5,7 @@
 
 - 👨‍💻 All of my projects are available at https://github.com/manishkhadka13?tab=repositories
 
-- 💬 Ask me about
- [**Python,SQL,Tableau,PowerBI,Pentaho,Snowflake,Kafka,GIT,Pyspark**]
+- 🌱 I am currently learning <b>Data Engineering and Analytics</b>
 
 - 📫 How to reach me **mandy.khadka10@gmail.com**
 
